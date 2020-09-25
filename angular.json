@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DasAdmin"
+    }
+  },
+  "defaultProject": "DasAdmin",
+  "cli": {
+    "analytics": "f2a7a99d-0f48-4ce3-a803-037ea78bf70d"
+  }
 }
